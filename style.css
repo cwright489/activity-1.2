@@ -1,0 +1,25 @@
+
+body {
+    margin: 0;
+    padding: 0;
+    background-color: #efeee7;
+    font-family: Georgia;
+    color: black;
+}
+
+header {
+    background-color: #333333;
+}
+
+h1 {
+    color: #eee;
+    font-size: 28px;
+    background-color: black;
+}
+
+.main-bio {
+    background-color: black;
+
+}
+
+
